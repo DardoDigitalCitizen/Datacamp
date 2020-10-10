@@ -1,5 +1,5 @@
 # You'll learn:
-#Define functions without parameters
+# Define functions without parameters
 # Define functions with one parameter
 # Define functions that return a value
 # Later: How to pass multiple arguments to functions, as well as return multiple values from them
