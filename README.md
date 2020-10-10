@@ -1,2 +1,0 @@
-# DataCamp
-DataCamp completed courses
